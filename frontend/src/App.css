@@ -17,6 +17,8 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 30px;
+  padding: 20px;
+  line-height: 1.2;
 }
 
 .start-btn {
